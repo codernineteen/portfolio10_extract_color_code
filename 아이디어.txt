@@ -1,0 +1,15 @@
+API
+pdf파일에서 텍스트를 발췌하고 음성인식으로 읽어내기
+
+google platform 이용
+-> 사지방 권한 때문에 실패(sdk필요)
+
+http://www.ispeech.org/api/#voices-standard이용
+web apikey : 73dce8b376fe2ac284bd9e6160c7c1d8
+
+
+
+
+
+
+
